@@ -1,4 +1,4 @@
-## Hi I'm Anıl 🤞 (Open to Work)
+## Hi I'm Anıl 🤞
 
 - </a>I’m currently learning **Web Developming** with **.NET, JAVA**.
 
