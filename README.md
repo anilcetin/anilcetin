@@ -11,8 +11,10 @@ Other Technologies: Entity Framework, SQL, RESTful API, Git
 💡 Why Me?
 I am passionate about solving complex problems and creating scalable, user-friendly applications. With my experience, I add both technical and strategic value to projects.
 <br/>
+<br/>
 📈 Experience:
 I have developed projects for various industries and scales, ranging from startups to large enterprises. I am well-versed in both startup culture and the dynamics of large-scale projects.
+<br/>
 <br/>
 📫 Contact:
 Feel free to reach out if you have any questions or collaboration opportunities!
