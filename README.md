@@ -23,5 +23,5 @@ Feel free to reach out if you have any questions or collaboration opportunities!
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/anil.cet) 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilcetin/)
-[![](https://img.shields.io/badge/Email-anilcetin.dev@gmail.com-white)](mailto:anilcetin.dev@gmail.com) 
+[![](https://img.shields.io/badge/Email-anilcetin.dev@gmail.com-white)](mailto:dev.anilcetin@gmail.com) 
 
