@@ -2,7 +2,6 @@
 As a Senior Full Stack Developer, I leverage my extensive experience in corporate projects to build modern web solutions.
 
 🔹 My Expertise:
-
 Backend: .NET, ASP.NET Core
 Frontend: React, Blazor, HTML, CSS, JavaScript/TypeScript
 Other Technologies: Entity Framework, SQL, RESTful API, Git
