@@ -4,7 +4,7 @@ As a Senior Full Stack Developer, I leverage my extensive experience in corporat
 🔹 My Expertise:
 Backend: .NET, ASP.NET Core
 Frontend: React, Blazor, HTML, CSS, JavaScript/TypeScript
-Other Technologies: Entity Framework, SQL, RESTful API, Git
+Other Technologies: Entity Framework, SQL, RESTful API, Git, Semantic Kernel
 
 <br/>
 💡 Why Me?
