@@ -1,6 +1,6 @@
 ## Hi, I'm Anıl! 👋
 As a Senior Full Stack Developer, I leverage my extensive experience in corporate projects to build modern web solutions.
-
+<br/>
 🔹 My Expertise:
 Backend: .NET, ASP.NET Core
 Frontend: React, Blazor, HTML, CSS, JavaScript/TypeScript
